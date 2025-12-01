@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- TV optimized colors -->
-    <color name="tv_background">#000000</color>
+    <!-- Ocean Professional palette -->
+    <color name="ocean_primary">#2563EB</color>
+    <color name="ocean_secondary">#F59E0B</color>
+    <color name="ocean_success">#F59E0B</color>
+    <color name="ocean_error">#EF4444</color>
+    <color name="ocean_background">#f9fafb</color>
+    <color name="ocean_surface">#ffffff</color>
+    <color name="ocean_text">#111827</color>
+
+    <!-- Legacy TV colors kept for theme compatibility -->
+    <color name="tv_background">#f9fafb</color>
     <color name="tv_overlay">#CC000000</color>
-    <color name="tv_primary">#FFFFFF</color>
-    <color name="tv_secondary">#CCCCCC</color>
-    <color name="tv_accent">#2196F3</color>
+    <color name="tv_primary">#111827</color>
+    <color name="tv_secondary">#6B7280</color>
+    <color name="tv_accent">#2563EB</color>
     <color name="tv_button_focused">#FFFFFF</color>
     <color name="tv_button_normal">#80FFFFFF</color>
 </resources>
